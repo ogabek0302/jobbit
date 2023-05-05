@@ -1,4 +1,4 @@
-# JobFinder Project
+# Jobbit Beta
 
 ## Overview
 
